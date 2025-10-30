@@ -1,2 +1,2 @@
 ![image](image.png)
-![image](image_copy.png)
+![image](imagecopy.png)
